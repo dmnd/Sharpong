@@ -1,6 +1,10 @@
 Sharpong
 --------
 
-A crappier pong clone in F#. Inspired by [pongell](http://github.com/kamatsu/pongell). Public domain.
+A crappier pong clone in F#. Inspired by [pongell][1]. Public domain.
 
-The code is probably completely unidiomatic (it uses lots of state), but F# is a multi-paradigm language so I can get away with it. Seriously, if you want to offer feedback, I'd be glad to hear it. This was a learning exercise.
+The code is probably completely unidiomatic (it uses lots of state), but F# is 
+a multi-paradigm language so I can get away with it. Seriously, if you want to 
+offer feedback, I'd be glad to hear it. This was a learning exercise.
+
+[1]: http://github.com/kamatsu/pongell
